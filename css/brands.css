@@ -114,6 +114,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Wikipedia */
+.button.button-coffee {
+  color: #FFFFFF;
+  background-color: #EAECF0;
+}
+.button.button-coffee:hover,
+.button.button-coffee:focus {
+  filter: brightness(90%);
+}
+
+
 /* Buy Me a Coffee */
 .button.button-coffee {
   color: #100a26;
