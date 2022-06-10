@@ -119,8 +119,8 @@ button:hover,
   color: #000000;
   background-color: #EAECF0;
 }
-.button.button-coffee:hover,
-.button.button-coffee:focus {
+.button.button-wikipedia:hover,
+.button.button-wikipedia:focus {
   filter: brightness(90%);
 }
 
