@@ -114,6 +114,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Thingiverse */
+.button.button-thingiverse {
+  color: #ffffff;
+  background-color: #248bfb;
+}
+.button.button-thingiverse:hover,
+.button.button-thingiverse:focus {
+  filter: brightness(90%);
+}
+
 /* Bandcamp */
 .button.button-bandcamp {
   color: #ffffff;
