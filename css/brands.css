@@ -205,6 +205,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Geocaching */
+.button.button-gc {
+  color: #ffffff;
+  background-color: #02874D;
+}
+.button.button-gc:hover,
+.button.button-gc:focus {
+  filter: brightness(90%);
+}
+
 /* Facebook */
 .button.button-faceb {
   color: #ffffff;
